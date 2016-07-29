@@ -3,7 +3,7 @@ $(document).ready(function(){
   play();
   pause();
   show();
-});
+})
 
 var jukeboxSongs = { "taylor swift": "in the clear", "beyonce": "halo", "drake": "hotline bling"};
 var artists = Object.keys(jukeboxSongs);
